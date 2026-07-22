@@ -1,0 +1,7 @@
+sources:
+  - name: spotify
+    database: first-pipeline12  
+    schema: spotify_songs  
+    tables:
+      - name: listening_data
+      - name: songs
